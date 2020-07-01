@@ -1,0 +1,721 @@
+spieltag,team_H,team_A,goal_H,goal_A,goal_H_HT,goal_A_HT
+"
+                    1. Spieltag
+                ",1860 München ,Eintracht Braunschweig ,1,1,1,0
+"
+                    1. Spieltag
+                ",Preußen Münster ,Hamburger SV ,1,1,0,0
+"
+                    1. Spieltag
+                ",1. FC Saarbrücken ,1. FC Köln ,0,2,0,2
+"
+                    1. Spieltag
+                ",Karlsruher SC ,Meidericher SV ,1,4,0,3
+"
+                    1. Spieltag
+                ",Eintracht Frankfurt ,1. FC Kaiserslautern ,1,1,1,1
+"
+                    1. Spieltag
+                ",FC Schalke 04 ,VfB Stuttgart ,2,0,2,0
+"
+                    1. Spieltag
+                ",Hertha BSC ,1. FC Nürnberg ,1,1,0,1
+"
+                    1. Spieltag
+                ",Werder Bremen ,Borussia Dortmund ,3,2,1,1
+"
+                    2. Spieltag
+                ",Eintracht Braunschweig ,Preußen Münster ,1,0,1,0
+"
+                    2. Spieltag
+                ",Hamburger SV ,1. FC Saarbrücken ,4,2,1,2
+"
+                    2. Spieltag
+                ",1. FC Köln ,Karlsruher SC ,4,0,2,0
+"
+                    2. Spieltag
+                ",Meidericher SV ,Eintracht Frankfurt ,3,1,2,0
+"
+                    2. Spieltag
+                ",1. FC Kaiserslautern ,FC Schalke 04 ,2,3,1,1
+"
+                    2. Spieltag
+                ",VfB Stuttgart ,Hertha BSC ,2,0,2,0
+"
+                    2. Spieltag
+                ",1. FC Nürnberg ,Werder Bremen ,3,0,2,0
+"
+                    2. Spieltag
+                ",Borussia Dortmund ,1860 München ,3,3,2,1
+"
+                    3. Spieltag
+                ",1860 München ,1. FC Köln ,1,3,0,0
+"
+                    3. Spieltag
+                ",Preußen Münster ,Meidericher SV ,4,2,2,0
+"
+                    3. Spieltag
+                ",1. FC Saarbrücken ,Eintracht Braunschweig ,2,2,0,1
+"
+                    3. Spieltag
+                ",Karlsruher SC ,Hamburger SV ,0,4,0,3
+"
+                    3. Spieltag
+                ",Eintracht Frankfurt ,1. FC Nürnberg ,2,3,1,1
+"
+                    3. Spieltag
+                ",FC Schalke 04 ,Borussia Dortmund ,3,1,1,1
+"
+                    3. Spieltag
+                ",Hertha BSC ,1. FC Kaiserslautern ,2,2,0,2
+"
+                    3. Spieltag
+                ",Werder Bremen ,VfB Stuttgart ,2,2,1,2
+"
+                    4. Spieltag
+                ",Eintracht Braunschweig ,Karlsruher SC ,2,0,1,0
+"
+                    4. Spieltag
+                ",Hamburger SV ,Eintracht Frankfurt ,3,0,1,0
+"
+                    4. Spieltag
+                ",1. FC Köln ,FC Schalke 04 ,2,2,1,2
+"
+                    4. Spieltag
+                ",Meidericher SV ,Hertha BSC ,1,3,0,1
+"
+                    4. Spieltag
+                ",1. FC Kaiserslautern ,Werder Bremen ,3,0,1,0
+"
+                    4. Spieltag
+                ",VfB Stuttgart ,1860 München ,1,1,1,1
+"
+                    4. Spieltag
+                ",1. FC Nürnberg ,Preußen Münster ,2,2,1,2
+"
+                    4. Spieltag
+                ",Borussia Dortmund ,1. FC Saarbrücken ,2,1,0,1
+"
+                    5. Spieltag
+                ",1860 München ,1. FC Kaiserslautern ,3,0,0,0
+"
+                    5. Spieltag
+                ",Preußen Münster ,VfB Stuttgart ,4,2,1,2
+"
+                    5. Spieltag
+                ",1. FC Saarbrücken ,1. FC Nürnberg ,3,5,2,2
+"
+                    5. Spieltag
+                ",Karlsruher SC ,Borussia Dortmund ,1,3,0,2
+"
+                    5. Spieltag
+                ",Eintracht Frankfurt ,Eintracht Braunschweig ,3,0,2,0
+"
+                    5. Spieltag
+                ",FC Schalke 04 ,Hamburger SV ,1,0,1,0
+"
+                    5. Spieltag
+                ",Hertha BSC ,1. FC Köln ,0,3,0,1
+"
+                    5. Spieltag
+                ",Werder Bremen ,Meidericher SV ,1,1,0,1
+"
+                    6. Spieltag
+                ",1. FC Köln ,Werder Bremen ,4,3,0,1
+"
+                    6. Spieltag
+                ",Meidericher SV ,1860 München ,3,0,1,0
+"
+                    6. Spieltag
+                ",1. FC Kaiserslautern ,Preußen Münster ,0,0,0,0
+"
+                    6. Spieltag
+                ",VfB Stuttgart ,1. FC Saarbrücken ,3,1,1,0
+"
+                    6. Spieltag
+                ",1. FC Nürnberg ,Karlsruher SC ,2,4,2,1
+"
+                    6. Spieltag
+                ",Hamburger SV ,Hertha BSC ,5,1,1,1
+"
+                    6. Spieltag
+                ",Eintracht Braunschweig ,FC Schalke 04 ,4,3,2,1
+"
+                    6. Spieltag
+                ",Borussia Dortmund ,Eintracht Frankfurt ,3,0,3,0
+"
+                    7. Spieltag
+                ",1860 München ,1. FC Nürnberg ,5,0,3,0
+"
+                    7. Spieltag
+                ",1. FC Saarbrücken ,1. FC Kaiserslautern ,2,4,2,1
+"
+                    7. Spieltag
+                ",Karlsruher SC ,VfB Stuttgart ,0,3,0,2
+"
+                    7. Spieltag
+                ",FC Schalke 04 ,Meidericher SV ,2,2,2,1
+"
+                    7. Spieltag
+                ",Eintracht Frankfurt ,1. FC Köln ,2,1,2,1
+"
+                    7. Spieltag
+                ",Hertha BSC ,Eintracht Braunschweig ,1,2,1,2
+"
+                    7. Spieltag
+                ",Werder Bremen ,Hamburger SV ,4,2,2,1
+"
+                    7. Spieltag
+                ",Preußen Münster ,Borussia Dortmund ,1,2,1,0
+"
+                    8. Spieltag
+                ",Eintracht Braunschweig ,Werder Bremen ,1,1,1,1
+"
+                    8. Spieltag
+                ",Hamburger SV ,1860 München ,5,0,3,0
+"
+                    8. Spieltag
+                ",1. FC Köln ,Preußen Münster ,3,0,1,0
+"
+                    8. Spieltag
+                ",Meidericher SV ,1. FC Saarbrücken ,3,1,1,1
+"
+                    8. Spieltag
+                ",1. FC Kaiserslautern ,Karlsruher SC ,1,0,0,0
+"
+                    8. Spieltag
+                ",VfB Stuttgart ,Eintracht Frankfurt ,0,0,0,0
+"
+                    8. Spieltag
+                ",1. FC Nürnberg ,FC Schalke 04 ,0,2,0,1
+"
+                    8. Spieltag
+                ",Borussia Dortmund ,Hertha BSC ,7,2,4,1
+"
+                    9. Spieltag
+                ",Hamburger SV ,Eintracht Braunschweig ,2,1,1,1
+"
+                    9. Spieltag
+                ",1. FC Köln ,Meidericher SV ,3,3,1,2
+"
+                    9. Spieltag
+                ",VfB Stuttgart ,Borussia Dortmund ,2,1,1,0
+"
+                    9. Spieltag
+                ",1. FC Nürnberg ,1. FC Kaiserslautern ,0,5,0,3
+"
+                    9. Spieltag
+                ",Preußen Münster ,1860 München ,0,0,0,0
+"
+                    9. Spieltag
+                ",1. FC Saarbrücken ,Karlsruher SC ,1,3,0,1
+"
+                    9. Spieltag
+                ",FC Schalke 04 ,Werder Bremen ,2,3,1,1
+"
+                    9. Spieltag
+                ",Hertha BSC ,Eintracht Frankfurt ,1,3,1,0
+"
+                    10. Spieltag
+                ",Eintracht Braunschweig ,1. FC Köln ,1,1,1,1
+"
+                    10. Spieltag
+                ",Meidericher SV ,Hamburger SV ,4,0,0,0
+"
+                    10. Spieltag
+                ",1. FC Kaiserslautern ,VfB Stuttgart ,1,3,1,2
+"
+                    10. Spieltag
+                ",Karlsruher SC ,Preußen Münster ,4,2,4,1
+"
+                    10. Spieltag
+                ",1860 München ,1. FC Saarbrücken ,7,1,1,1
+"
+                    10. Spieltag
+                ",Eintracht Frankfurt ,FC Schalke 04 ,4,2,1,1
+"
+                    10. Spieltag
+                ",Werder Bremen ,Hertha BSC ,2,2,1,0
+"
+                    10. Spieltag
+                ",Borussia Dortmund ,1. FC Nürnberg ,3,1,1,1
+"
+                    11. Spieltag
+                ",Eintracht Braunschweig ,Meidericher SV ,0,0,0,0
+"
+                    11. Spieltag
+                ",1. FC Köln ,Hamburger SV ,4,1,1,1
+"
+                    11. Spieltag
+                ",VfB Stuttgart ,1. FC Nürnberg ,1,0,1,0
+"
+                    11. Spieltag
+                ",1. FC Saarbrücken ,Preußen Münster ,1,1,1,1
+"
+                    11. Spieltag
+                ",1860 München ,Karlsruher SC ,1,0,0,0
+"
+                    11. Spieltag
+                ",Werder Bremen ,Eintracht Frankfurt ,4,1,2,1
+"
+                    11. Spieltag
+                ",Borussia Dortmund ,1. FC Kaiserslautern ,9,3,5,1
+"
+                    11. Spieltag
+                ",FC Schalke 04 ,Hertha BSC ,1,0,0,0
+"
+                    12. Spieltag
+                ",1. FC Kaiserslautern ,Eintracht Braunschweig ,2,1,1,0
+"
+                    12. Spieltag
+                ",Hamburger SV ,VfB Stuttgart ,1,1,0,1
+"
+                    12. Spieltag
+                ",Meidericher SV ,Borussia Dortmund ,3,3,1,3
+"
+                    12. Spieltag
+                ",1. FC Nürnberg ,1. FC Köln ,2,2,2,1
+"
+                    12. Spieltag
+                ",Karlsruher SC ,Werder Bremen ,1,1,1,0
+"
+                    12. Spieltag
+                ",Hertha BSC ,1. FC Saarbrücken ,3,2,1,2
+"
+                    12. Spieltag
+                ",Preußen Münster ,FC Schalke 04 ,2,2,1,0
+"
+                    12. Spieltag
+                ",Eintracht Frankfurt ,1860 München ,5,2,2,1
+"
+                    13. Spieltag
+                ",1. FC Kaiserslautern ,Hamburger SV ,3,2,2,0
+"
+                    13. Spieltag
+                ",1. FC Nürnberg ,Meidericher SV ,2,0,1,0
+"
+                    13. Spieltag
+                ",Hertha BSC ,Karlsruher SC ,2,3,1,2
+"
+                    13. Spieltag
+                ",VfB Stuttgart ,Eintracht Braunschweig ,5,0,3,0
+"
+                    13. Spieltag
+                ",Eintracht Frankfurt ,Preußen Münster ,3,0,0,0
+"
+                    13. Spieltag
+                ",Werder Bremen ,1. FC Saarbrücken ,0,3,0,1
+"
+                    13. Spieltag
+                ",FC Schalke 04 ,1860 München ,2,1,2,0
+"
+                    13. Spieltag
+                ",Borussia Dortmund ,1. FC Köln ,2,3,2,3
+"
+                    14. Spieltag
+                ",Meidericher SV ,VfB Stuttgart ,3,0,1,0
+"
+                    14. Spieltag
+                ",Preußen Münster ,Werder Bremen ,1,3,0,2
+"
+                    14. Spieltag
+                ",Karlsruher SC ,FC Schalke 04 ,1,1,0,0
+"
+                    14. Spieltag
+                ",1860 München ,Hertha BSC ,1,2,0,0
+"
+                    14. Spieltag
+                ",1. FC Saarbrücken ,Eintracht Frankfurt ,0,4,0,2
+"
+                    14. Spieltag
+                ",Eintracht Braunschweig ,1. FC Nürnberg ,2,0,0,0
+"
+                    14. Spieltag
+                ",1. FC Köln ,1. FC Kaiserslautern ,5,1,1,0
+"
+                    14. Spieltag
+                ",Hamburger SV ,Borussia Dortmund ,1,2,2,1
+"
+                    15. Spieltag
+                ",Hamburger SV ,Borussia Dortmund ,0,1,1,1
+"
+                    15. Spieltag
+                ",1. FC Kaiserslautern ,Meidericher SV ,0,0,3,2
+"
+                    15. Spieltag
+                ",1. FC Nürnberg ,Hamburger SV ,1,1,0,3
+"
+                    15. Spieltag
+                ",Eintracht Frankfurt ,Karlsruher SC ,0,1,4,1
+"
+                    15. Spieltag
+                ",Werder Bremen ,1860 München ,1,1,4,1
+"
+                    15. Spieltag
+                ",FC Schalke 04 ,1. FC Saarbrücken ,0,0,0,1
+"
+                    15. Spieltag
+                ",VfB Stuttgart ,1. FC Köln ,0,0,2,0
+"
+                    15. Spieltag
+                ",Hertha BSC ,Preußen Münster ,1,0,3,0
+"
+                    16. Spieltag
+                ",Borussia Dortmund ,Eintracht Braunschweig ,1,0,5,0
+"
+                    16. Spieltag
+                ",Hamburger SV ,Preußen Münster ,2,0,1,3
+"
+                    16. Spieltag
+                ",1. FC Köln ,1. FC Saarbrücken ,1,3,2,0
+"
+                    16. Spieltag
+                ",Meidericher SV ,Karlsruher SC ,2,0,1,1
+"
+                    16. Spieltag
+                ",1. FC Kaiserslautern ,Eintracht Frankfurt ,1,1,2,3
+"
+                    16. Spieltag
+                ",1. FC Nürnberg ,Hertha BSC ,2,2,4,3
+"
+                    16. Spieltag
+                ",Borussia Dortmund ,Werder Bremen ,4,0,0,1
+"
+                    16. Spieltag
+                ",Eintracht Braunschweig ,1860 München ,0,1,2,0
+"
+                    17. Spieltag
+                ",VfB Stuttgart ,FC Schalke 04 ,1,0,0,2
+"
+                    17. Spieltag
+                ",Preußen Münster ,Eintracht Braunschweig ,0,0,2,2
+"
+                    17. Spieltag
+                ",Karlsruher SC ,1. FC Köln ,0,1,4,0
+"
+                    17. Spieltag
+                ",FC Schalke 04 ,1. FC Kaiserslautern ,2,0,0,2
+"
+                    17. Spieltag
+                ",Hertha BSC ,VfB Stuttgart ,0,0,6,1
+"
+                    17. Spieltag
+                ",1860 München ,Borussia Dortmund ,4,1,2,1
+"
+                    17. Spieltag
+                ",Werder Bremen ,1. FC Nürnberg ,1,1,1,1
+"
+                    17. Spieltag
+                ",1. FC Saarbrücken ,Hamburger SV ,0,0,2,2
+"
+                    18. Spieltag
+                ",Eintracht Frankfurt ,Meidericher SV ,1,1,2,2
+"
+                    18. Spieltag
+                ",1. FC Köln ,1860 München ,1,1,0,0
+"
+                    18. Spieltag
+                ",Meidericher SV ,Preußen Münster ,0,0,1,1
+"
+                    18. Spieltag
+                ",Hamburger SV ,Karlsruher SC ,0,1,1,0
+"
+                    18. Spieltag
+                ",1. FC Nürnberg ,Eintracht Frankfurt ,1,0,3,0
+"
+                    18. Spieltag
+                ",Borussia Dortmund ,FC Schalke 04 ,0,0,3,0
+"
+                    18. Spieltag
+                ",1. FC Kaiserslautern ,Hertha BSC ,1,0,3,1
+"
+                    18. Spieltag
+                ",Eintracht Braunschweig ,1. FC Saarbrücken ,1,1,2,0
+"
+                    19. Spieltag
+                ",VfB Stuttgart ,Werder Bremen ,1,0,3,1
+"
+                    19. Spieltag
+                ",Karlsruher SC ,Eintracht Braunschweig ,1,0,2,3
+"
+                    19. Spieltag
+                ",FC Schalke 04 ,1. FC Köln ,0,2,2,0
+"
+                    19. Spieltag
+                ",Werder Bremen ,1. FC Kaiserslautern ,1,0,0,1
+"
+                    19. Spieltag
+                ",Preußen Münster ,1. FC Nürnberg ,0,0,1,1
+"
+                    19. Spieltag
+                ",1860 München ,VfB Stuttgart ,1,0,5,2
+"
+                    19. Spieltag
+                ",Hertha BSC ,Meidericher SV ,3,1,2,1
+"
+                    19. Spieltag
+                ",1. FC Saarbrücken ,Borussia Dortmund ,0,0,2,2
+"
+                    20. Spieltag
+                ",Eintracht Frankfurt ,Hamburger SV ,1,1,2,1
+"
+                    20. Spieltag
+                ",1. FC Kaiserslautern ,1860 München ,1,0,0,3
+"
+                    20. Spieltag
+                ",VfB Stuttgart ,Preußen Münster ,0,1,2,0
+"
+                    20. Spieltag
+                ",1. FC Nürnberg ,1. FC Saarbrücken ,1,0,3,2
+"
+                    20. Spieltag
+                ",Borussia Dortmund ,Karlsruher SC ,2,1,0,3
+"
+                    20. Spieltag
+                ",Eintracht Braunschweig ,Eintracht Frankfurt ,0,2,3,1
+"
+                    20. Spieltag
+                ",Hamburger SV ,FC Schalke 04 ,0,0,3,1
+"
+                    20. Spieltag
+                ",1. FC Köln ,Hertha BSC ,2,0,1,0
+"
+                    21. Spieltag
+                ",Meidericher SV ,Werder Bremen ,0,0,2,0
+"
+                    21. Spieltag
+                ",FC Schalke 04 ,Eintracht Braunschweig ,1,0,1,2
+"
+                    21. Spieltag
+                ",Hertha BSC ,Hamburger SV ,0,1,1,1
+"
+                    21. Spieltag
+                ",Werder Bremen ,1. FC Köln ,1,0,1,0
+"
+                    21. Spieltag
+                ",Preußen Münster ,1. FC Kaiserslautern ,0,0,0,1
+"
+                    21. Spieltag
+                ",1. FC Saarbrücken ,VfB Stuttgart ,0,0,1,3
+"
+                    21. Spieltag
+                ",Karlsruher SC ,1. FC Nürnberg ,1,2,2,1
+"
+                    21. Spieltag
+                ",Eintracht Frankfurt ,Borussia Dortmund ,1,0,0,0
+"
+                    22. Spieltag
+                ",1860 München ,Meidericher SV ,0,0,2,2
+"
+                    22. Spieltag
+                ",1. FC Nürnberg ,1860 München ,1,1,0,0
+"
+                    22. Spieltag
+                ",Borussia Dortmund ,Preußen Münster ,0,0,2,4
+"
+                    22. Spieltag
+                ",1. FC Kaiserslautern ,1. FC Saarbrücken ,1,2,4,1
+"
+                    22. Spieltag
+                ",VfB Stuttgart ,Karlsruher SC ,3,0,3,0
+"
+                    22. Spieltag
+                ",Meidericher SV ,FC Schalke 04 ,2,0,1,1
+"
+                    22. Spieltag
+                ",1. FC Köln ,Eintracht Frankfurt ,1,0,1,1
+"
+                    22. Spieltag
+                ",Hamburger SV ,Werder Bremen ,1,1,1,1
+"
+                    23. Spieltag
+                ",Eintracht Braunschweig ,Hertha BSC ,1,1,0,0
+"
+                    23. Spieltag
+                ",Hertha BSC ,Borussia Dortmund ,0,0,2,3
+"
+                    23. Spieltag
+                ",Werder Bremen ,Eintracht Braunschweig ,0,2,9,2
+"
+                    23. Spieltag
+                ",1860 München ,Hamburger SV ,3,1,0,2
+"
+                    23. Spieltag
+                ",Preußen Münster ,1. FC Köln ,0,2,0,2
+"
+                    23. Spieltag
+                ",1. FC Saarbrücken ,Meidericher SV ,0,1,5,1
+"
+                    23. Spieltag
+                ",Karlsruher SC ,1. FC Kaiserslautern ,2,0,3,2
+"
+                    23. Spieltag
+                ",Eintracht Frankfurt ,VfB Stuttgart ,2,1,4,1
+"
+                    24. Spieltag
+                ",FC Schalke 04 ,1. FC Nürnberg ,2,1,2,1
+"
+                    24. Spieltag
+                ",Eintracht Braunschweig ,Hamburger SV ,0,0,2,2
+"
+                    24. Spieltag
+                ",Meidericher SV ,1. FC Köln ,2,0,7,1
+"
+                    24. Spieltag
+                ",Borussia Dortmund ,VfB Stuttgart ,2,1,3,1
+"
+                    24. Spieltag
+                ",1. FC Kaiserslautern ,1. FC Nürnberg ,3,0,3,1
+"
+                    24. Spieltag
+                ",1860 München ,Preußen Münster ,0,1,2,2
+"
+                    24. Spieltag
+                ",Karlsruher SC ,1. FC Saarbrücken ,0,2,1,0
+"
+                    24. Spieltag
+                ",Werder Bremen ,FC Schalke 04 ,1,0,4,0
+"
+                    25. Spieltag
+                ",Eintracht Frankfurt ,Hertha BSC ,0,0,4,1
+"
+                    25. Spieltag
+                ",1. FC Köln ,Eintracht Braunschweig ,1,0,3,3
+"
+                    25. Spieltag
+                ",Hamburger SV ,Meidericher SV ,0,1,4,0
+"
+                    25. Spieltag
+                ",VfB Stuttgart ,1. FC Kaiserslautern ,2,0,4,0
+"
+                    25. Spieltag
+                ",1. FC Nürnberg ,Borussia Dortmund ,2,0,1,2
+"
+                    25. Spieltag
+                ",1. FC Saarbrücken ,1860 München ,0,1,0,0
+"
+                    25. Spieltag
+                ",Preußen Münster ,Karlsruher SC ,0,0,1,2
+"
+                    25. Spieltag
+                ",FC Schalke 04 ,Eintracht Frankfurt ,0,0,5,2
+"
+                    26. Spieltag
+                ",Hertha BSC ,Werder Bremen ,2,1,5,1
+"
+                    26. Spieltag
+                ",Meidericher SV ,Eintracht Braunschweig ,3,1,1,1
+"
+                    26. Spieltag
+                ",Hamburger SV ,1. FC Köln ,1,0,0,0
+"
+                    26. Spieltag
+                ",1. FC Nürnberg ,VfB Stuttgart ,0,0,0,1
+"
+                    26. Spieltag
+                ",1. FC Kaiserslautern ,Borussia Dortmund ,0,1,1,0
+"
+                    26. Spieltag
+                ",Karlsruher SC ,1860 München ,1,0,2,1
+"
+                    26. Spieltag
+                ",Preußen Münster ,1. FC Saarbrücken ,1,1,1,0
+"
+                    26. Spieltag
+                ",Hertha BSC ,FC Schalke 04 ,1,0,7,0
+"
+                    27. Spieltag
+                ",Eintracht Frankfurt ,Werder Bremen ,2,0,2,2
+"
+                    27. Spieltag
+                ",VfB Stuttgart ,Hamburger SV ,1,1,0,0
+"
+                    27. Spieltag
+                ",Borussia Dortmund ,Meidericher SV ,0,0,0,1
+"
+                    27. Spieltag
+                ",Eintracht Braunschweig ,1. FC Kaiserslautern ,0,1,5,0
+"
+                    27. Spieltag
+                ",1. FC Köln ,1. FC Nürnberg ,2,0,1,2
+"
+                    27. Spieltag
+                ",FC Schalke 04 ,Preußen Münster ,0,1,0,0
+"
+                    27. Spieltag
+                ",Werder Bremen ,Karlsruher SC ,0,0,1,1
+"
+                    27. Spieltag
+                ",1860 München ,Eintracht Frankfurt ,0,0,3,0
+"
+                    28. Spieltag
+                ",1. FC Saarbrücken ,Hertha BSC ,3,0,7,3
+"
+                    28. Spieltag
+                ",Hamburger SV ,1. FC Kaiserslautern ,1,0,2,0
+"
+                    28. Spieltag
+                ",Eintracht Braunschweig ,VfB Stuttgart ,2,0,0,0
+"
+                    28. Spieltag
+                ",Meidericher SV ,1. FC Nürnberg ,0,0,5,2
+"
+                    28. Spieltag
+                ",1. FC Köln ,Borussia Dortmund ,1,1,1,3
+"
+                    28. Spieltag
+                ",Preußen Münster ,Eintracht Frankfurt ,1,2,7,1
+"
+                    28. Spieltag
+                ",1860 München ,FC Schalke 04 ,3,1,1,1
+"
+                    28. Spieltag
+                ",Karlsruher SC ,Hertha BSC ,0,0,3,2
+"
+                    29. Spieltag
+                ",1. FC Saarbrücken ,Werder Bremen ,1,0,1,0
+"
+                    29. Spieltag
+                ",1. FC Nürnberg ,Eintracht Braunschweig ,0,0,3,3
+"
+                    29. Spieltag
+                ",1. FC Kaiserslautern ,1. FC Köln ,2,3,1,2
+"
+                    29. Spieltag
+                ",VfB Stuttgart ,Meidericher SV ,1,2,3,1
+"
+                    29. Spieltag
+                ",Hertha BSC ,1860 München ,1,1,4,2
+"
+                    29. Spieltag
+                ",Werder Bremen ,Preußen Münster ,2,1,3,1
+"
+                    29. Spieltag
+                ",Eintracht Frankfurt ,1. FC Saarbrücken ,3,1,2,1
+"
+                    29. Spieltag
+                ",FC Schalke 04 ,Karlsruher SC ,0,1,5,2
+"
+                    30. Spieltag
+                ",Borussia Dortmund ,Hamburger SV ,2,0,3,0
+"
+                    30. Spieltag
+                ",Meidericher SV ,1. FC Kaiserslautern ,1,0,2,1
+"
+                    30. Spieltag
+                ",1. FC Köln ,VfB Stuttgart ,0,1,2,2
+"
+                    30. Spieltag
+                ",Hamburger SV ,1. FC Nürnberg ,1,1,2,0
+"
+                    30. Spieltag
+                ",Eintracht Braunschweig ,Borussia Dortmund ,0,0,1,2
+"
+                    30. Spieltag
+                ",Karlsruher SC ,Eintracht Frankfurt ,0,1,1,1
+"
+                    30. Spieltag
+                ",1. FC Saarbrücken ,FC Schalke 04 ,1,0,4,2
+"
+                    30. Spieltag
+                ",Preußen Münster ,Hertha BSC ,2,2,3,2
